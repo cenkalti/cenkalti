@@ -4,7 +4,7 @@
 
 I'm a passionate software developer with a strong interest in open-source projects, cloud computing, and AI/ML technologies. I love exploring new technologies and contributing to the developer community.
 
-- 🔭 Currently working on: [akson-ai/crowd](https://github.com/akson-ai/crowd) Personal AI assistant
+- 🔭 Currently working on: [Akson](https://github.com/akson-ai) Personal AI assistant
 - 🌱 Currently learning: Machine Learning, LLMs
 - 👯 Looking to collaborate on: Open-source projects, Cloud-based applications
 - 💬 Ask me about: Python, Go, Databases, Storage
