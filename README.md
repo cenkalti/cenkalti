@@ -8,7 +8,7 @@ I'm a passionate software developer with a strong interest in open-source projec
 - 🌱 Currently learning: Machine Learning, LLMs
 - 👯 Looking to collaborate on: Open-source projects, self-hosted applications
 - 💬 Ask me about: Python, Go, Databases, Storage
-- ⚡ Fun fact: I love playing video games!
+- ⚡ Fun fact: I love playing Elden Ring!
 - 💻 I use Neovim and Arch Linux, btw.
 
 ## My GitHub Stats
