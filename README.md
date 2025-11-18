@@ -35,4 +35,4 @@ Here are some of my notable projects:
 
 - [Email](mailto:cenk@alti.email)
 - [LinkedIn](https://www.linkedin.com/in/cenkalti)
-- [My Resume](https://github.com/cenkalti/resume)
+- [My Resume](https://cenkalti.com/resume/)
