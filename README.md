@@ -6,7 +6,7 @@ I'm a passionate software developer with a strong interest in open-source projec
 
 - 🔭 Currently working on: [Akson](https://github.com/akson-ai/akson) Personal AI assistant
 - 🌱 Currently learning: Machine Learning, LLMs
-- 👯 Looking to collaborate on: Open-source projects, Cloud-based applications
+- 👯 Looking to collaborate on: Open-source projects, self-hosted applications
 - 💬 Ask me about: Python, Go, Databases, Storage
 - ⚡ Fun fact: I love playing video games!
 - 💻 I use Neovim and Arch Linux, btw.
