@@ -4,7 +4,6 @@
 
 I'm a passionate software developer with a strong interest in open-source projects, cloud computing, and AI/ML technologies. I love exploring new technologies and contributing to the developer community.
 
-- 🔭 Currently working on: [Akson](https://github.com/akson-ai/akson) Personal AI assistant
 - 🌱 Currently learning: Machine Learning, LLMs
 - 👯 Looking to collaborate on: Open-source projects, self-hosted applications
 - 💬 Ask me about: Python, Go, Databases, Storage
@@ -13,11 +12,11 @@ I'm a passionate software developer with a strong interest in open-source projec
 
 ## My GitHub Stats
 
-![Cenk's GitHub stats](https://github-readme-stats.vercel.app/api?username=cenkalti&show_icons=true&theme=radical)
+![Cenk's GitHub stats](https://github-readme-stats-cenk-alti.vercel.app/api?username=cenkalti&show_icons=true&theme=radical)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cenkalti&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-cenk-alti.vercel.app/api/top-langs/?username=cenkalti&layout=compact&theme=radical)
 
 ## Projects
 
